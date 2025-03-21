@@ -36,11 +36,11 @@ select {
     height: 80px;
     float: left;
   }
-  .dropdown-content {
+  #dropdownContentAsia {
             display: none;
             margin-top: 10px;
         }
-    #toggleDropdown {
+    #toggleDropdownAsia {
             background-color: #007bff;
             color: white;
             border: none;
@@ -51,10 +51,10 @@ select {
             transition: background-color 0.3s ease;
         }
 
-        #toggleDropdown:hover {
+        #toggleDropdownAsia:hover {
             background-color: #0056b3;
         }
 
-        #toggleDropdown:active {
+        #toggleDropdownAsia:active {
             background-color: #004494;
         }
